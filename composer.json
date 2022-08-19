@@ -36,7 +36,7 @@
   "require": {
     "illuminate/console": "~7.30",
     "illuminate/filesystem": "~7.30",
-    "symfony/process": "~3.3",
+    "symfony/process": "~5.4",
     "ramsey/uuid": "^3.8"
   },
   "require-dev": {
